@@ -10,7 +10,7 @@ Questa applicazione è un contatore
 
 ## Installazione
 
-Aprire il terminale e scegliere dove copiare il progetto
+Apri il terminale e scegli dove copiare il progetto
 Copia e incolla questo comando:
 
 `git clone https://github.com/Geremia98/ProgettoJsBasics.git`
