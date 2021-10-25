@@ -1,6 +1,6 @@
 # Contatore
 
-Questa applicazione è un contatore. Si può incrementare o decrementare il valore sullo schermo di una unità
+Questa applicazione è un contatore
 
 <div align="center">
   <a href="https://github.com/Geremia98/ProgettoJsBasics">
@@ -9,6 +9,14 @@ Questa applicazione è un contatore. Si può incrementare o decrementare il valo
 </div>
 
 ## Installazione
+
+Aprire il terminale e scegliere dove copiare il progetto
+Copia e incolla questo comando:
+
+`git clone https://github.com/Geremia98/ProgettoJsBasics.git`
+
+Apri la cartella dove hai clonato il progetto, vai sul file index.html, tasto destro > apri con > e scegli un browser (Safari, Chrome ...)
+
 
 ## Utilizzo
 
@@ -21,6 +29,6 @@ Per farlo bisogna passare il mouse sull'icona del menu e così compariranno le d
   </a>
 </div>
 
-## Licenza
+Si può incremenetare e decrementare il valore di una sola unità
 
 
